@@ -1,8 +1,8 @@
 package divya;
 
-public class main {
+public class gaur {
 	public static void main(String[] args) {
-		System.out.println("hello  111");
+		System.out.println("hello world");
 		
-	}
+}
 }
